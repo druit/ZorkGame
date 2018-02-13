@@ -1,0 +1,27 @@
+!!!HELP!!!    
+
+go (verb) : [east,west,north,south] (noun)
+look : You see what there is on your way!
+-------------------------------------------------------------------    
+take : [item about cards]
+use : after take card's item, you can use it on NPC!
+talk : use this command for talking to NPCs-Guiders!
+what need : you look what item need to use about talking to someone of NPCs!
+----------------------------------------------------------------------------
+pick : [usage items]  After picked,as you try to move in somewhere
+maybe you find monster or doors.To continue use these usage items! 	
+--------------------------------------------------------------------------
+heal : If you already eat or drink something, so you can heal yourself!
+--------------------------------------------------------------
+stats : Look your stats (Hp-moves-score)
+hp : Look your Life-Hp
+moves : Look your moves
+score : Look your score
+story : Look the story
+--------------------------------------------------------------
+inventory : Look your bag!
+-------------------------------------------------------------
+load : load a game play, earlier that you saved!
+save : save your own game
+register : if you didn't have an account, register!
+

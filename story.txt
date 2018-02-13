@@ -1,0 +1,8 @@
+Hall,Kitchen,nothing,Office,Ballroom,rolex,Library,key,Kitchen,open,door,opened!,Door is close,false,nobody,displayerror 
+Office,nothing,Bathroom,nothing,Hall,ring,Kitchen,chicken,nowhere,eat,chicken,Yammiii!!,You didn't take food or drink,true,nobody,displyerror
+Kitchen,nothing,Hall,Bedroom,nothing,diamond,Ballroom,swath,Bedroom,hit,bee,Attack completed,There is a bee.Hit her!,false,Mrs White,My stupid card has this : blood
+Ballroom,nothing,nothing,Hall,Library,gem,Bathroom,coffee,nowhere,drink,coffee,Ahh very nice!,You need coffee,true,Mrs Red,My stupid card has this : cherry
+Library,nothing,Playingroom,Ballroom,Office,noitem,nothing,cookies,nowhere,eat,cookies,Tasty!!!!,You didn't take coockies,true,Mr Yellow,My stupid card has this : hot pepper
+Playingroom,Library,nothing,nothing,nothing,noitem,nothing,bottle,nowhere,drink,water,Ahhh.Very nice!,You didn't take the bottle with water,true,Mrs Smile,Tell me who kill Mr Black my little detective.
+Bedroom,nothing,nothing,nothing,Kitchen,noitem,nothing,chips,nowhere,eat,chips,Yammiii!!,You didn't take the chips,true,nobody,displayerror
+Bathroom,Office,nothing,nothing,Playingroom,noitem,nothing,rope,Playingroom,pull,door,opened!,You must pull this door!,false,Mr Smith,My stupid card has this: Mrs Red
